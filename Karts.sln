@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karts.Plugins", "Karts.Plugins.csproj", "{0630A6E6-A54E-74CA-9D5C-1C2001331511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karts", "Karts.csproj", "{0EB739B0-BCB6-7E4A-0F34-516699F351E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karts.Editor.Plugins", "Karts.Editor.Plugins.csproj", "{10A1B88F-4AC0-5914-ECD9-A63418DE6286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0630A6E6-A54E-74CA-9D5C-1C2001331511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0630A6E6-A54E-74CA-9D5C-1C2001331511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0630A6E6-A54E-74CA-9D5C-1C2001331511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0630A6E6-A54E-74CA-9D5C-1C2001331511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB739B0-BCB6-7E4A-0F34-516699F351E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB739B0-BCB6-7E4A-0F34-516699F351E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB739B0-BCB6-7E4A-0F34-516699F351E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB739B0-BCB6-7E4A-0F34-516699F351E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A1B88F-4AC0-5914-ECD9-A63418DE6286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A1B88F-4AC0-5914-ECD9-A63418DE6286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A1B88F-4AC0-5914-ECD9-A63418DE6286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A1B88F-4AC0-5914-ECD9-A63418DE6286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
