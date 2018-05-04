@@ -303,13 +303,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Karts.Plugins.csproj">
-      <Project>{0630A6E6-A54E-74CA-9D5C-1C2001331511}</Project>
-      <Name>Karts.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="Karts.csproj">
       <Project>{0EB739B0-BCB6-7E4A-0F34-516699F351E2}</Project>
       <Name>Karts</Name>
+    </ProjectReference>
+    <ProjectReference Include="Karts.Plugins.csproj">
+      <Project>{0630A6E6-A54E-74CA-9D5C-1C2001331511}</Project>
+      <Name>Karts.Plugins</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
